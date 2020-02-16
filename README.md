@@ -1,2 +1,2 @@
 # Titanic
-predicting survivors after titanic cataclysm!
+predicting survivors of titanic cataclysm!
